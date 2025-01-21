@@ -4,6 +4,16 @@ Este projeto contém um código que calcula a Matriz de Confusão e diversas mé
 ## Descrição do Código
 O código utiliza a biblioteca scikit-learn para calcular a Matriz de Confusão, e a biblioteca numpy para calcular as métricas de desempenho.
 
+## Fórmulas das Métricas
+![download](https://github.com/user-attachments/assets/f90b03c3-8fa3-40ce-877b-6864b1508ec8)
+
+VP: verdadeiros positivos;
+FN: falsos negativos; 
+FP: falsos positivos; 
+VN: verdadeiros negativos; 
+P: precisão; S: sensibilidade; 
+N: total de elementos. 
+
 ## Passos principais do código:
 **1. Definir os Dados:**
 
